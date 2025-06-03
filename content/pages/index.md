@@ -7,7 +7,9 @@ sections:
       text: Build with intent. Learn with purpose.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Everything I do from writing to building is driven by a desire to make
+      people think, reflect, and grow
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
