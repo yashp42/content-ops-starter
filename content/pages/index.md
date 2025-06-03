@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: mere pass bas domain hai bhai i cant code
+      text: '[I CANT CODE ]'
       color: text-dark
       type: TitleBlock
     subtitle: ''
