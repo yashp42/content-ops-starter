@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Build with intent. Learn with purpose.
+      text: mere pass bas domain hai bhai i cant code
       color: text-dark
       type: TitleBlock
     subtitle: >-
