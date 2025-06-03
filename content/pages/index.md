@@ -12,7 +12,6 @@ sections:
       *I JUST HAVE THIS DOMAIN CUZ  IT  WAS FREE*
     actions: []
     media:
-      url: /images/abstract-feature2.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
