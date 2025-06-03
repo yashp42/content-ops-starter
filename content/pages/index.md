@@ -8,9 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      *This is where I share ideas, lessons, and tools to help you build a
-      better version of yourself*
+    text: |
+      *I JUST HAVE THIS DOMAIN CUZ  IT  WAS FREE*
+
+      **
     actions: []
     media:
       url: /images/abstract-feature2.svg
