@@ -14,15 +14,6 @@ sections:
       *This is where I share ideas, lessons, and tools to help you build a
       better version of yourself*
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
