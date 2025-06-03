@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Think.
+      text: Think. learn. create.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
