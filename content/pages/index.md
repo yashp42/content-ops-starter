@@ -11,8 +11,8 @@ sections:
       Everything I do from writing to building is driven by a desire to make
       people think, reflect, and grow.
     text: >
-      This is where I share ideas, lessons, and tools to help you build a better
-      version of yourself
+      *This is where I share ideas, lessons, and tools to help you build a
+      better version of yourself*
     actions:
       - label: Get started
         altText: ''
