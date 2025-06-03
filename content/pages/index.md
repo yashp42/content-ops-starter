@@ -13,16 +13,7 @@ sections:
     text: >
       *This is where I share ideas, lessons, and tools to help you build a
       better version of yourself*
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/abstract-feature2.svg
       altText: Unblock your team boost your time to production preview
