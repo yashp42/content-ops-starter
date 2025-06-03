@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Think. learn. create.
+      text: Build with intent. Learn with purpose.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
