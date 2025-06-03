@@ -13,7 +13,10 @@ sections:
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
-      elementId: ''
+      elementId: >-
+        <iframe
+        src='https://my.spline.design/particles-J1hhRuZVhzi0WFh9rBL2RegI/'
+        frameborder='0' width='100%' height='100%'></iframe>
       type: ImageBlock
     badge:
       label: HEY FOLKS
