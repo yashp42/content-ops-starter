@@ -10,8 +10,6 @@ sections:
     subtitle: ''
     text: |
       *I JUST HAVE THIS DOMAIN CUZ  IT  WAS FREE*
-
-      **
     actions: []
     media:
       url: /images/abstract-feature2.svg
