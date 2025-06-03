@@ -7,9 +7,7 @@ sections:
       text: mere pass bas domain hai bhai i cant code
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Everything I do from writing to building is driven by a desire to make
-      people think, reflect, and grow.
+    subtitle: ''
     text: >
       *This is where I share ideas, lessons, and tools to help you build a
       better version of yourself*
