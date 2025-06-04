@@ -4,6 +4,42 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      text: '[I CANT CODE ]'
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: |+
+
+
+    actions: []
+    media:
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: HEY FOLKS
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+  - type: GenericSection
+    title:
       text: ''
       type: TitleBlock
     subtitle: ''
