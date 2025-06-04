@@ -37,6 +37,32 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+
+  - type: GenericSection
+    title:
+      text: ''
+      type: TitleBlock
+    subtitle: ''
+    text: |
+      <iframe 
+        src="https://my.spline.design/particles-J1hhRuZVhzi0WFh9rBL2RegI/" 
+        frameborder="0" 
+        width="100%" 
+        height="500px" 
+        style="border: none; border-radius: 12px; overflow: hidden;">
+      </iframe>
+    actions: []
+    elementId: spline-animation
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        justifyContent: center
+        padding:
+          - pt-16
+          - pb-16
+
   - type: FeaturedItemsSection
     title:
       text: blabh blabh
