@@ -4,67 +4,41 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: '[I CANT CODE ]'
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: |+
-      <iframe 
-        src="https\://my.spline.design/particles-J1hhRuZVhzi0WFh9rBL2RegI/" 
-        frameborder="0" 
-        width="100%" 
-        height="500px" 
-        style="border: none; border-radius: 12px; overflow: hidden;">
-      </iframe>
-
-
-
-    actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: HEY FOLKS
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-  - type: GenericSection
-    title:
       text: ''
       type: TitleBlock
     subtitle: ''
-    text: |+
-
-
+    text: |
+      <div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
+        <iframe 
+          src="https://my.spline.design/animatedbackgroundgradientforweb-jvVyiKfTSuDVJmCJ0QzP2hT6/" 
+          frameborder="0" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; border: none;">
+        </iframe>
+        <div style="position: relative; z-index: 1; color: white; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center; padding: 0 1rem;">
+          <div style="background: #0070f3; color: white; padding: 0.4rem 1rem; border-radius: 999px; font-weight: bold; margin-bottom: 1rem;">
+            HEY FOLKS
+          </div>
+          <h1 style="font-size: 3rem; margin: 0;">I CANT CODE</h1>
+          <p style="font-size: 1.2rem; font-style: italic;">I JUST HAVE THIS DOMAIN CUZ IT WAS FREE</p>
+        </div>
+      </div>
     actions: []
-    elementId: spline-animation
+    media:
+      altText: ''
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    elementId: hero-section
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row
-        justifyContent: center
-        padding:
-          - pt-16
-          - pb-16
+        padding: []
+
   - type: FeaturedItemsSection
     title:
       text: blabh blabh
@@ -169,6 +143,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -179,6 +154,7 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+
   - type: GenericSection
     title:
       text: Generic section with a video
@@ -222,6 +198,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -232,6 +209,7 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
