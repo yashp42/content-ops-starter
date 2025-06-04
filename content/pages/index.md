@@ -39,7 +39,7 @@ sections:
       opacity: 100
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: blabh blabh
       color: text-dark
       styles:
         self:
