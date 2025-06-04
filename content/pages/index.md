@@ -48,7 +48,7 @@ sections:
     subtitle: woosh
     items:
       - type: FeaturedItem
-        title: 500k
+        title: '-'
         subtitle: Numbers Done
         text: |
           \-
