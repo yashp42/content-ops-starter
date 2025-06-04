@@ -1,13 +1,6 @@
 {
     "text": "\\-\n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "\\-\n",
     "colors": "bg-dark-fg-light",
