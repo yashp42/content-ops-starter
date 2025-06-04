@@ -8,8 +8,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      *I JUST HAVE THIS DOMAIN CUZ  IT  WAS FREE*
+    text: |+
+      <iframe 
+        src="https\://my.spline.design/particles-J1hhRuZVhzi0WFh9rBL2RegI/" 
+        frameborder="0" 
+        width="100%" 
+        height="500px" 
+        style="border: none; border-radius: 12px; overflow: hidden;">
+      </iframe>
+
+
+
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
