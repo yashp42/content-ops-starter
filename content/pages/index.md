@@ -9,14 +9,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |+
-      <iframe 
-        src="https\://my.spline.design/particles-J1hhRuZVhzi0WFh9rBL2RegI/" 
-        frameborder="0" 
-        width="100%" 
-        height="500px" 
-        style="border: none; border-radius: 12px; overflow: hidden;">
-      </iframe>
-
 
 
     actions: []
